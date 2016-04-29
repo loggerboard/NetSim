@@ -1,0 +1,25 @@
+V -t * -v 1.0a5 -a 0
+W -t * -x 641.734375 -y 598.593750
+A -t * -n 1 -p 0 -o 0x7fffffff -c 30 -a 1
+A -t * -h 1 -m 1073741823 -s 0
+n -t * -a 4 -s 4 -S UP -v circle -c black -i black -x 481.546875 -y 553.218750 -Z 0.0
+n -t * -a 0 -s 0 -S UP -v circle -c black -i black -x 641.734375 -y 549.781250 -Z 0.0
+n -t * -a 5 -s 5 -S UP -v circle -c black -i black -x 484.296875 -y 593.437500 -Z 0.0
+n -t * -a 1 -s 1 -S UP -v circle -c black -i black -x 641.734375 -y 598.593750 -Z 0.0
+n -t * -a 2 -s 2 -S UP -v circle -c black -i black -x 590.171875 -y 575.562500 -Z 0.0
+n -t * -a 3 -s 3 -S UP -v circle -c black -i black -x 533.796875 -y 574.531250 -Z 0.0
+l -t * -s 0 -d 1 -S UP -r 1000000 -D 0.02 -c black -o 90.0deg
+l -t * -s 0 -d 2 -S UP -r 1000000 -D 0.02 -c black -o 153.4deg
+l -t * -s 2 -d 3 -S UP -r 1000000 -D 0.02 -c black -o 181.0deg
+l -t * -s 3 -d 4 -S UP -r 1000000 -D 0.02 -c black -o 202.2deg
+l -t * -s 3 -d 5 -S UP -r 1000000 -D 0.02 -c black -o 159.1deg
+q -t * -s 2 -d 0 -a 0.5
+q -t * -s 0 -d 2 -a 0.5
+q -t * -s 4 -d 3 -a 0.5
+q -t * -s 3 -d 4 -a 0.5
+q -t * -s 5 -d 3 -a 0.5
+q -t * -s 3 -d 5 -a 0.5
+q -t * -s 3 -d 2 -a 0.5
+q -t * -s 2 -d 3 -a 0.5
+q -t * -s 1 -d 0 -a 0.5
+q -t * -s 0 -d 1 -a 0.5
