@@ -2,13 +2,4 @@
 ###################
 *.tr
 *.nam
-*.png
 
-# Directory #
-#############
-plots/*
-
-# Specific Files #
-##################
-NodesCreate.tcl
-ConCreate.tcl
