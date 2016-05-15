@@ -1,0 +1,15 @@
+# Generated Files #
+###################
+*.tr
+*.nam
+*.txt
+*.png
+
+# Directory #
+#############
+plots/*
+
+# Specific Files #
+##################
+NodesCreate.tcl
+ConCreate.tcl
